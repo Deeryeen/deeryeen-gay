@@ -76,4 +76,17 @@ body {
 .content .title-container .links .telegram {
   background-color: #25A3E1;
 }
+
+@media screen and (max-width: 800px) {
+  .content .title-container h1 {
+    font-size: 3rem;
+  }
+  .content .title-container h3 {
+    font-size: 1rem;
+  }
+  .content .title-container a {
+    font-size: 1rem;
+    padding: 5px 15px;
+  }
+}
 /*# sourceMappingURL=deeryeen.css.map */
